@@ -13,3 +13,31 @@ Survey about favorite things (web application) with registration and authenticat
 - Любимая песня.
 - Любимая дата.
 - Любимое число.
+
+<h3 align="center">Start page</h3>
+
+![start](https://github.com/nonestbonum/What_fovorite/blob/main/screens_/start.png)
+
+<h3 align="center">SignIn</h3>
+
+![start](https://github.com/nonestbonum/What_fovorite/blob/main/screens_/signIn.png)
+
+<h3 align="center">SignIn fail</h3>
+
+![start](https://github.com/nonestbonum/What_fovorite/blob/main/screens_/signInFail.png)
+
+<h3 align="center">SignUp</h3>
+
+![start](https://github.com/nonestbonum/What_fovorite/blob/main/screens_/signUp.png)
+
+<h3 align="center">SignUp fail</h3>
+
+![start](https://github.com/nonestbonum/What_fovorite/blob/main/screens_/signUpFail.png)
+
+<h3 align="center">Form</h3>
+
+![start](https://github.com/nonestbonum/What_fovorite/blob/main/screens_/form.png)
+
+<h3 align="center">Form fail</h3>
+
+![start](https://github.com/nonestbonum/What_fovorite/blob/main/screens_/formFail.png)
