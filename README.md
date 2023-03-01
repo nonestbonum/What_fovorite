@@ -1,5 +1,6 @@
 # What_fovorite
 Survey about favorite things (web application) with registration and authentication.
+
 **Данные для регистрации**
 
 - ФИО (Не пусто, только Русский язык, без символов).
