@@ -14,6 +14,10 @@ Survey about favorite things (web application) with registration and authenticat
 - Любимая дата.
 - Любимое число.
 
+**What else**
+- Пароли пользователей хранятся в зашифрованном виде.
+- При регистрации пользователю на электронную почту отправляется письмо, подтверждающее его акааунт. Если пользователь попробует залогиниться без подтверждения - возвращется 403 ошибка.
+
 <h3 align="center">Start page</h3>
 
 ![start](https://github.com/nonestbonum/What_fovorite/blob/main/screens_/start.png)
