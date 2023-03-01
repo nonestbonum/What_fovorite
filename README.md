@@ -19,6 +19,14 @@ Survey about favorite things (web application) with registration and authenticat
 - Пароли пользователей хранятся в зашифрованном виде.
 - При регистрации пользователю на электронную почту отправляется письмо, подтверждающее его акааунт. Если пользователь попробует залогиниться без подтверждения - возвращется 403 ошибка.
 
+**Stack:**
+- Java 17
+- Spring Security
+- Spring boot
+- Maven
+- Freemarker template
+- CSS
+
 <h3 align="center">Start page</h3>
 
 ![start](https://github.com/nonestbonum/What_fovorite/blob/main/screens_/start.png)
